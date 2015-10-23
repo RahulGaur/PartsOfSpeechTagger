@@ -1,0 +1,56 @@
+*/* */* He/PRON had/VERB obtained/VERB and/CONJ provisioned/NOUN a/DET veteran/NOUN ship/NOUN called/VERB the/DET Discovery/NOUN and/CONJ had/VERB recruited/VERB a/DET crew/NOUN of/ADP twenty-one/NUM ,/. the/DET largest/ADJ he/PRON had/VERB ever/ADV commanded/VERB ./.
+*/* */* The/DET purpose/NOUN of/ADP this/DET fourth/ADJ voyage/NOUN was/VERB clear/ADJ ./.
+*/* */* A/DET century/NOUN of/ADP exploration/NOUN had/VERB established/VERB that/ADP a/DET great/ADJ land/NOUN mass/ADJ ,/. North/ADJ and/CONJ South/ADJ America/NOUN ,/. lay/VERB between/ADP Europe/NOUN and/CONJ the/DET Indies/NOUN ./.
+*/* */* One/NUM by/ADP one/NUM ,/. the/DET openings/NOUN in/ADP the/DET coast/NOUN that/ADP promised/VERB a/DET passage/NOUN through/ADP had/VERB been/VERB explored/VERB and/CONJ discarded/VERB ./.
+*/* */* In/ADP fact/NOUN ,/. Hudson's/NOUN sail/NOUN up/PRT the/DET Great/ADJ North/ADJ River/NOUN had/VERB disposed/VERB of/ADP one/NUM of/ADP the/DET last/ADJ hopes/NOUN ./.
+*/* */* But/CONJ there/PRT remained/VERB one/NUM mysterious/ADJ ,/. unexplored/ADJ gap/NOUN ,/. far/ADV to/PRT the/DET north/NOUN ./.
+*/* */* Nearly/ADV twenty-five/NUM years/NOUN before/ADP ,/. Captain/NOUN John/NOUN Davis/NOUN had/VERB noted/VERB ,/. as/ADP he/PRON sailed/VERB near/ADP the/DET Arctic/NOUN Circle/NOUN ,/. ``/. a/DET very/ADV great/ADJ gulf/NOUN ,/. the/DET water/NOUN whirling/VERB and/CONJ roaring/VERB ,/. as/ADP it/PRON were/VERB the/DET meeting/NOUN of/ADP tides/NOUN ''/. ./.
+*/* */* He/PRON named/VERB this/DET opening/NOUN ,/. between/ADP Baffin/NOUN Island/NOUN and/CONJ Labrador/NOUN ,/. the/DET ``/. Furious/NOUN Overfall/NOUN ''/. ./.
+*/* */* (/. Later/ADV ,/. it/PRON was/VERB to/PRT be/VERB called/VERB Hudson/NOUN Strait/NOUN ./.
+*/* */* )/. In/ADP 1602/NOUN ,/. George/NOUN Waymouth/NOUN ,/. in/ADP the/DET same/ADJ little/ADJ Discovery/NOUN that/PRON Hudson/NOUN now/ADV commanded/VERB ,/. had/VERB sailed/VERB 300/NUM miles/NOUN up/PRT the/DET strait/NOUN before/ADP his/DET frightened/VERB men/NOUN turned/VERB the/DET ship/NOUN back/ADV ./.
+*/* */* Hudson/NOUN now/ADV proposed/VERB to/PRT sail/NOUN all/PRT the/DET way/NOUN through/ADP and/CONJ test/NOUN the/DET seas/NOUN beyond/ADP for/ADP the/DET long-sought/NOUN waterway/NOUN ./.
+*/* */* Even/ADV Hudson/NOUN ,/. experienced/VERB in/ADP Arctic/NOUN sailing/VERB and/CONJ determined/VERB as/ADP he/PRON was/VERB ,/. must/VERB have/VERB had/VERB qualms/NOUN as/ADP he/PRON slid/VERB down/PRT the/DET Thames/NOUN ./.
+*/* */* Ahead/ADV were/VERB perilous/ADJ ,/. ice-filled/NOUN waters/NOUN ./.
+*/* */* On/ADP previous/ADJ voyages/NOUN ,/. it/PRON had/VERB been/VERB in/ADP precisely/ADV such/PRT dangerous/ADJ situations/NOUN that/PRON he/PRON had/VERB failed/VERB as/ADP a/DET leader/NOUN and/CONJ captain/NOUN ./.
+*/* */* On/ADP the/DET second/ADJ voyage/NOUN ,/. he/PRON had/VERB turned/VERB back/ADV at/ADP the/DET frozen/VERB island/NOUN of/ADP Novaya/NOUN Zemlya/NOUN and/CONJ meekly/ADV given/VERB the/DET crew/NOUN a/DET certificate/NOUN stating/VERB that/ADP he/PRON did/VERB so/ADV of/ADP his/DET own/ADJ free/ADJ will/VERB --/. which/DET was/VERB obviously/ADV not/ADV the/DET case/NOUN ./.
+*/* */* On/ADP the/DET third/ADJ voyage/NOUN ,/. a/DET near-mutiny/NOUN rising/VERB from/ADP a/DET quarrel/NOUN between/ADP Dutch/ADJ and/CONJ English/ADJ crew/NOUN members/NOUN on/ADP the/DET Half/PRT Moon/NOUN had/VERB almost/ADV forced/VERB him/PRON to/PRT head/VERB the/DET ship/NOUN back/ADV to/ADP Amsterdam/NOUN in/ADP Mid-Atlantic/NOUN ./.
+*/* */* Worse/ADJ ,/. his/DET present/ADJ crew/NOUN included/VERB five/NUM men/NOUN who/PRON had/VERB sailed/VERB with/ADP him/PRON before/ADV ./.
+*/* */* Of/ADP only/ADV one/NUM could/VERB he/PRON be/VERB sure/ADJ --/. young/ADJ John/NOUN Hudson/NOUN ,/. his/DET second/ADJ son/NOUN ./.
+*/* */* The/DET mate/NOUN ,/. Robert/NOUN Juet/NOUN ,/. who/PRON had/VERB kept/VERB the/DET journal/NOUN on/ADP the/DET Half/PRT Moon/NOUN ,/. was/VERB experienced/VERB --/. but/CONJ he/PRON was/VERB a/DET bitter/ADJ old/ADJ man/NOUN ,/. ready/ADJ to/ADP complain/VERB or/CONJ desert/NOUN at/ADP any/DET opportunity/NOUN ./.
+*/* */* Philip/NOUN Staffe/NOUN ,/. the/DET ship's/NOUN carpenter/NOUN ,/. was/VERB a/DET good/ADJ worker/NOUN ,/. but/CONJ perversely/NOUN independent/ADJ ./.
+*/* */* Arnold/NOUN Lodley/NOUN and/CONJ Michael/NOUN Perse/NOUN were/VERB like/ADP the/DET rest/NOUN --/. lukewarm/ADJ ,/. ready/ADJ to/ADP swing/VERB against/ADP Hudson/NOUN in/ADP a/DET crisis/NOUN ./.
+*/* */* But/CONJ men/NOUN willing/ADJ to/ADP sail/NOUN at/ADP all/PRT into/ADP waters/NOUN where/ADV wooden/ADJ ships/NOUN could/VERB be/VERB crushed/VERB like/ADP eggs/NOUN were/VERB hard/ADJ to/PRT find/VERB ./.
+*/* */* Hudson/NOUN knew/VERB he/PRON had/VERB to/PRT use/VERB these/DET men/NOUN as/ADP long/ADJ as/ADP he/PRON remained/VERB an/DET explorer/NOUN ./.
+*/* */* And/CONJ he/PRON refused/VERB to/PRT be/VERB anything/NOUN else/ADV ./.
+*/* */* It/PRON is/VERB believed/VERB that/ADP Hudson/NOUN was/VERB related/VERB to/PRT other/ADJ seafaring/NOUN men/NOUN of/ADP the/DET Muscovy/NOUN Company/NOUN and/CONJ was/VERB trained/VERB on/ADP company/NOUN ships/NOUN ./.
+*/* */* He/PRON was/VERB a/DET Londoner/NOUN ,/. married/VERB ,/. with/ADP three/NUM sons/NOUN ./.
+*/* */* (/. The/DET common/ADJ misconception/NOUN that/PRON he/PRON was/VERB Dutch/ADJ and/CONJ that/ADP his/DET first/ADJ name/NOUN was/VERB Hendrik/NOUN stem/NOUN from/ADP Dutch/ADJ documents/NOUN of/ADP his/DET third/ADJ voyage/NOUN ./.
+*/* */* )/. In/ADP 1610/NOUN ,/. Hudson/NOUN was/VERB probably/ADV in/ADP his/DET early/ADJ forties/NOUN ,/. a/DET good/ADJ navigator/NOUN ,/. a/DET stubborn/ADJ voyager/NOUN ,/. but/CONJ otherwise/ADV fatally/NOUN unsuited/NOUN to/PRT his/DET chosen/VERB profession/NOUN ./.
+*/* */* Hudson's/NOUN first/ADJ error/NOUN of/ADP the/DET fourth/ADJ voyage/NOUN occurred/VERB only/ADV a/DET few/ADJ miles/NOUN down/PRT the/DET Thames/NOUN ./.
+*/* */* There/PRT at/ADP the/DET river's/NOUN edge/NOUN waited/VERB one/NUM Henry/NOUN Greene/NOUN ,/. whom/PRON Hudson/NOUN listed/VERB as/ADP a/DET ``/. clerk/NOUN ''/. ./.
+*/* */* Greene/NOUN was/VERB in/ADP actuality/NOUN a/DET young/ADJ ruffian/NOUN from/ADP Kent/NOUN ,/. who/PRON had/VERB broken/VERB with/ADP his/DET parents/NOUN in/ADP order/NOUN to/ADP keep/VERB the/DET company/NOUN he/PRON preferred/VERB --/. pimps/NOUN ,/. panders/NOUN and/CONJ whores/NOUN ./.
+*/* */* He/PRON was/VERB not/ADV the/DET sort/NOUN of/ADP sailor/NOUN Hudson/NOUN wanted/VERB his/DET backers/NOUN to/PRT see/VERB on/ADP board/NOUN and/CONJ he/PRON had/VERB Greene/NOUN wait/NOUN at/ADP Gravesend/NOUN ,/. where/ADV the/DET Discovery/NOUN picked/VERB him/PRON up/PRT ./.
+*/* */* For/ADP the/DET first/ADJ three/NUM weeks/NOUN ,/. the/DET ship/NOUN skirted/NOUN up/PRT the/DET east/NOUN coast/NOUN of/ADP Great/ADJ Britain/NOUN ,/. then/ADV turned/VERB westward/ADV ./.
+*/* */* On/ADP May/NOUN 11/NUM ,/. she/PRON reached/VERB Iceland/NOUN ./.
+*/* */* Poor/ADJ winds/NOUN and/CONJ fog/NOUN locked/VERB her/PRON up/PRT in/ADP a/DET harbor/NOUN the/DET crew/NOUN called/VERB ``/. Lousie/NOUN Bay/NOUN ''/. ./.
+*/* */* The/DET subsequent/ADJ two-weeks/NOUN wait/NOUN made/VERB the/DET crew/NOUN quarrelsome/NOUN ./.
+*/* */* With/ADP Hudson/NOUN looking/VERB on/ADP ,/. his/DET protege/NOUN Greene/NOUN picked/VERB a/DET fight/NOUN with/ADP the/DET ship's/NOUN surgeon/NOUN ,/. Edward/NOUN Wilson/NOUN ./.
+*/* */* The/DET issue/NOUN was/VERB settled/VERB on/ADP shore/NOUN ,/. Greene/NOUN winning/VERB and/CONJ Wilson/NOUN remaining/VERB ashore/NOUN ,/. determined/VERB to/PRT catch/VERB the/DET next/ADJ fishing/VERB boat/NOUN back/ADV to/ADP England/NOUN ./.
+*/* */* With/ADP difficulty/NOUN ,/. Hudson/NOUN persuaded/VERB him/PRON to/PRT rejoin/NOUN the/DET ship/NOUN ,/. and/CONJ they/PRON sailed/VERB from/ADP Iceland/NOUN ./.
+*/* */* Early/ADV in/ADP June/NOUN ,/. the/DET Discovery/NOUN passed/VERB ``/. Desolation/NOUN ''/. (/. southern/ADJ Greenland/NOUN )/. and/CONJ in/ADP mid-June/NOUN entered/VERB the/DET ``/. Furious/NOUN Overfall/NOUN ''/. ./.
+*/* */* Floating/NOUN ice/NOUN bore/VERB down/PRT from/ADP the/DET north/NOUN and/CONJ west/NOUN ./.
+*/* */* Fog/NOUN hung/VERB over/ADP the/DET route/NOUN constantly/ADV ./.
+*/* */* Turbulent/NOUN tides/NOUN rose/VERB as/ADP much/ADV as/ADV fifty/NUM feet/NOUN ./.
+*/* */* The/DET ship's/NOUN compass/NOUN was/VERB useless/ADJ because/ADP of/ADP the/DET nearness/NOUN of/ADP the/DET magnetic/ADJ North/ADJ Pole/NOUN ./.
+*/* */* As/ADP the/DET bergs/NOUN grew/VERB larger/ADJ ,/. Hudson/NOUN was/VERB forced/VERB to/PRT turn/VERB south/NOUN into/ADP what/DET is/VERB now/ADV Ungava/NOUN Bay/NOUN ,/. an/DET inlet/NOUN of/ADP the/DET Great/ADJ Strait/NOUN ./.
+*/* */* After/ADP finding/VERB that/ADP its/DET coasts/NOUN led/VERB nowhere/ADV ,/. however/ADV ,/. he/PRON turned/VERB north/NOUN again/ADV ,/. toward/ADP the/DET main/ADJ ,/. ice-filled/NOUN passageway/NOUN --/. and/CONJ the/DET crew/NOUN ,/. at/ADP first/ADV uneasy/ADJ ,/. then/ADV frightened/VERB ,/. rebelled/VERB ./.
+*/* */* The/DET trouble/NOUN was/VERB at/ADP least/ADJ partly/ADV Juet's/NOUN doing/VERB ./.
+*/* */* For/ADP weeks/NOUN he/PRON had/VERB been/VERB saying/VERB that/ADP Hudson's/NOUN idea/NOUN of/ADP sailing/VERB through/ADP to/ADP Java/NOUN was/VERB absurd/ADJ ./.
+*/* */* The/DET great/ADJ ,/. crushing/VERB ice/NOUN masses/NOUN coming/VERB into/ADP view/NOUN made/VERB him/PRON sound/VERB like/ADP the/DET voice/NOUN of/ADP pure/ADJ reason/NOUN ./.
+*/* */* A/DET group/NOUN of/ADP sailors/NOUN announced/VERB to/PRT Hudson/NOUN that/PRON they/PRON would/VERB sail/NOUN no/ADV farther/ADV ./.
+*/* */* Instead/ADV of/ADP quelling/NOUN the/DET dissension/NOUN ,/. as/ADP many/ADJ captains/NOUN of/ADP the/DET era/NOUN would/VERB have/VERB done/VERB (/. Sir/NOUN Francis/NOUN Drake/NOUN lopped/NOUN a/DET man's/NOUN head/NOUN off/ADP under/ADP similar/ADJ circumstances/NOUN )/. ,/. Hudson/NOUN decided/VERB to/PRT be/VERB reasonable/ADJ ./.
+*/* */* He/PRON went/VERB to/PRT his/DET cabin/NOUN and/CONJ emerged/VERB carrying/VERB a/DET large/ADJ chart/NOUN ,/. which/DET he/PRON set/VERB up/PRT in/ADP view/NOUN of/ADP the/DET crew/NOUN ./.
+*/* */* Patiently/NOUN ,/. he/PRON explained/VERB what/DET he/PRON knew/VERB about/ADP their/DET course/NOUN and/CONJ their/DET objectives/NOUN ./.
+*/* */* When/ADV Hudson/NOUN had/VERB finished/VERB ,/. the/DET ``/. town/NOUN meeting/NOUN ''/. broke/VERB down/PRT into/ADP a/DET general/ADJ ,/. wordy/NOUN argument/NOUN ./.
+*/* */* One/NUM man/NOUN remarked/VERB that/ADP if/ADP he/PRON had/VERB a/DET hundred/NUM pounds/NOUN ,/. he/PRON would/VERB give/VERB ninety/NUM of/ADP them/PRON to/PRT be/VERB back/ADV in/ADP England/NOUN ./.
+*/* */* Up/PRT spoke/VERB carpenter/NOUN Staffe/NOUN ,/. who/PRON said/VERB he/PRON wouldn't/VERB give/VERB ten/NUM pounds/NOUN to/ADP be/VERB home/NOUN ./.

@@ -1,0 +1,47 @@
+NAME: RAHUL GAUR  | UNI: RG2930
+
+PART A:
+
+1. UNIGRAM natural -13.766408817
+   BIGRAM natural that -4.05889368905
+   TRIGRAM natural that he -1.58496250072
+
+2. UNIGRAM perplexity 1052.4865859
+   BIGRAM perplexity 53.8984761198
+   TRIGRAM Perplexity 5.7106793082
+
+3. Perplexity is 12.5516094886
+
+4. The perplexity for the Maximum Likelihood method for Trigram is lesser than the perplexity using Linear Interpolation. One reason for this is because we used the same random value for lambda (0.33, equal for all three). This is the result what I had expected. We are comparing our best model with a basic model that we prepared using linear interpolation. 
+
+5. Sample1: The perplexity is 11.1670289158
+   Sample2: The perplexity is 1611240282.44
+   
+   Sample1 belongs to the Brown Dataset and Sample2 does not. Clearly the perplexity of Sample1 is way too lower than Sample2. This tells us that the probablity of Sample1 belonging to the Brown Data set is higher. This is because Minimizing perplexity is the same as Maximizing Probability. 
+
+
+Part A time: 22.266046 sec
+
+
+PART B:
+
+2. TRIGRAM CONJ ADV ADP -2.9755173148
+   TRIGRAM DET NOUN NUM -8.97019467676
+   TRIGRAM NOUN PRT PRON -11.0854724592
+
+4. * * 0.0
+   Night NOUN -13.8814485873
+   Place VERB -15.4538654173
+   prime ADJ -10.694634891
+   STOP STOP -0.00404653823794
+   _RARE_ VERB -3.17672334025
+
+5. Percent correct tags: 93.2386108234
+
+6. Percent correct tags: 94.2255750777
+
+
+
+Part B time: 297.26 sec
+
+
